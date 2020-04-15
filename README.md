@@ -1,3 +1,7 @@
+- Summarized  as a small tool to boost working efficiency.
+- Support multi-channel and 16-bit images, especially RGB-D pairs.
+- Efficient for Real-time prediction based on PyTorch/Python with streaming device input built on C++ API.
+
 **IMPORTANT NOTE:** This is more an exercice for me to learn how to make installable packages than an actual useful repo.
 
 **IMPORTANT NOTE:** It is not finished, so expect errors
