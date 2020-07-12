@@ -1,9 +1,8 @@
+# cpp_python_socket
+- Simple TCP/IP socket comunication wrapper between c++ and Python for IPC.
 - Summarized  as a small tool to boost working efficiency.
 - Support multi-channel and 16-bit images, especially RGB-D pairs.
 - Efficient for Real-time prediction based on PyTorch/Python with streaming device input built on C++ API.
-
-# cpp_python_socket
-Simple TCP/IP socket comunication wrapper between c++ and Python for IPC.
 
 ## General Information
 - Branch **master** covers simple string communication, relies on standard libraries.
