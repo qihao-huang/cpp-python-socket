@@ -13,19 +13,7 @@
 Only tested in Ubuntu 16.04, write an issue should you find any error.
 
 ## Quick Start
-1. Either clone or add as a submodule this repo to your project folder:
-
-`git clone https://github.com/OleguerCanal/cpp_python_socket.git`
-or
-
-`git submodule add https://github.com/OleguerCanal/cpp_python_socket.git`
-
-2. [OPTIONAL] Change branch to enable image transferring:
-`cd cpp_python_socket/`
-
-`git checkout image_transferring`
-
-3. If intending to use C++ code, add this 3 things to your CMakeLists.txt:
+If intending to use C++ code, add this 3 things to your CMakeLists.txt:
 - `add_subdirectory(cpp_python_socket)`
 - Append `cpp_python_socket/cpp/include` to `include_directories(...`
 - Append `cpp_sockets` to `target_link_libraries(...` of your library/executable.
